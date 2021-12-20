@@ -8,8 +8,9 @@ BO!!!
 
 # Notes
 
-Game works for a single play.
+<!-- Game works for a single play. -->
+<!-- Add loop +5 times. -->
 
-Add loop +5 times.
+UPDATE: game can now repeat a total of five plays.
 
 Add score counter with max of 5.
